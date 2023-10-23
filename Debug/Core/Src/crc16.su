@@ -1,0 +1,4 @@
+../Core/Src/crc16.c:19:10:crc_16	32	static
+../Core/Src/crc16.c:47:10:crc_modbus	32	static
+../Core/Src/crc16.c:74:10:update_crc_16	16	static
+../Core/Src/crc16.c:91:13:init_crc16_tab	16	static

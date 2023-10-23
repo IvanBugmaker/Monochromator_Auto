@@ -1,0 +1,7 @@
+../Core/Src/command_handler.c:25:9:set_start_position	16	static
+../Core/Src/command_handler.c:38:9:set_destinanion_point	16	static
+../Core/Src/command_handler.c:52:9:set_speed	24	static
+../Core/Src/command_handler.c:68:9:go_to_point	16	static
+../Core/Src/command_handler.c:96:9:set_measuring_interval	16	static
+../Core/Src/command_handler.c:113:6:motor_stop	8	static
+../Core/Src/command_handler.c:118:6:motor_start	8	static
